@@ -112,8 +112,8 @@ namespace Yodo1.Localization
         }
 
         private static string SettingsFileName { get { return "LanguageSettings"; } }
-        private static string ResourcesPath { get { return Application.dataPath + "/Editor/Yodo1/ProjectLocalization/"; } }
-        private static string AssetPath { get { return "Assets/Editor/Yodo1/ProjectLocalization/" + SettingsFileName + ".asset"; } }
+        private static string ResourcesPath { get { return Application.dataPath + "/Yodo1SDK_Extension/Editor/Localization/"; } }
+        private static string AssetPath { get { return "Assets/Yodo1SDK_Extension/Editor/Localization/" + SettingsFileName + ".asset"; } }
     }
 }
 #endif

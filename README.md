@@ -11,14 +11,17 @@
  
 常见问题及解决方法：
 Q: UnityEditor.iOS_I2Loc.Xcode.dll冲突报错如何解决？
+
 A: 把Assets/Yodo1SDK_Extension/Editor/Localization/Library/UnityEditor.iOS_I2Loc.Xcode.dll删除，使用
    项目自带的即可。
    
 Q: Assets/Yodo1SDK_Extension/Editor/Localization/Library/Net20冲突报错如何解决？
+
 A: 把Assets/Yodo1SDK_Extension/Editor/Localization/Library/Net20删除，使用
    项目自带的即可。
    
 Q: Assets/Yodo1SDK_Extension/Editor/Localization/Library/Net20导入UnityEditor报错如何解决？
+
 A: 请参考Yodo1SDK 解决方法：https://confluence.yodo1.com/pages/viewpage.action?pageId=24064089。
 
 欢迎各位大佬拍砖！（求大佬轻拍^_^），更欢迎各位大佬贡献和维护代码！

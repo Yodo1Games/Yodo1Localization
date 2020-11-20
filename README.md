@@ -21,4 +21,4 @@ A: 把Assets/Yodo1SDK_Extension/Editor/Localization/Library/Net20删除，使用
 Q: Assets/Yodo1SDK_Extension/Editor/Localization/Library/Net20导入UnityEditor报错如何解决？
 A: 请参考Yodo1SDK 解决方法：https://confluence.yodo1.com/pages/viewpage.action?pageId=24064089。
 
-欢迎大家拍砖和维护代码
+欢迎各位大佬拍砖！（求大佬轻拍^_^），更欢迎各位大佬贡献和维护代码！
